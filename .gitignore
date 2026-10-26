@@ -1,0 +1,11 @@
+**/database.local.php
+.env
+.env.*
+!.env.example
+**/uploads/**
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
